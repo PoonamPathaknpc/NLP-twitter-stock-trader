@@ -1,0 +1,8 @@
+Companies Not enough of a sentiment score to make a trade,,,
+put, AAPL, soft,20110914
+Companies  has enough of a negative sentiment score to make a trade,,,
+call,YF,hard,20161111
+Companies has enough negative sentiment score to make a trade,,,
+put,VZ, soft,20170112
+Companies has enough positive sentiment to make a soft call,,,
+call, JPM, soft,20170116
